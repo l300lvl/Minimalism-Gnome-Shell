@@ -35,7 +35,7 @@ const dashVisible = new Lang.Class({
 		// global.log("show dash");
 		Main.overview._dash.actor.hide();
 		Main.overview.viewSelector.actor.set_x(0);
-		Main.overview.viewSelector.actor.set_width(Main.overview._group.get_width());
+		Main.overview.viewSelector.actor.set_width(0);
 		Main.overview.viewSelector.actor.queue_redraw();
 	},
 
