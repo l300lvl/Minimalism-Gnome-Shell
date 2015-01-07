@@ -1,0 +1,19 @@
+{
+	"description": "It removes the 'Window is ready' notification and puts the window immediately into focus instead.",
+	"name": "Steal Focus",
+	"shell-version": [
+		"3.4", 
+		"3.6", 
+		"3.8", 
+		"3.10",
+		"3.12",
+		"3.14"
+	],
+	"url": "https://github.com/Edenhofer/Minimalism-Gnome-Shell",
+	"uuid": "steal-focus@Edenhofer.github.com",
+	"original-authors": [
+		"kagesenshi.87@gmail.com",
+		"stuart.stent@gmail.com"
+	],
+	"version": 1
+}
