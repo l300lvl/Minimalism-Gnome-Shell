@@ -9,7 +9,7 @@ Minimalism Gnome Shell Extensions
 **[Gnome.org's Extensions](https://extensions.gnome.org/)**
 
 [Launch And Expose](https://extensions.gnome.org/extension/811/launch-and-expose/)
-Show all running windows in an overview when clicking in the upper right corner, show all app in an overview when clicking in the upper left corner.
+Show all running windows in an overview when clicking in the upper right corner, show all apps in an overview when clicking in the upper left corner.
 
 [Hide Dash X](https://extensions.gnome.org/extension/805/hide-dash/)
 Hide the dash from the activities overview.
