@@ -17,16 +17,16 @@ Hide the dash from the activities overview.
 [Hide Workspace Thumbnails](https://extensions.gnome.org/extension/808/hide-workspace-thumbnails/)
 Hide workspace thumbnails from the overview. But don't worry they are still present and one can switch between them like usual with e.g. shortcuts.
 
-**Screenshort**
+**Screenshots**
 ----------------------  
 
 **Hide Dash X**
-![Enable](Screenshot/hide-dash.png)
+![Enable](screenshot/hide-dash.png)
 
 
 **Hide WorkSpace Thumbnails And Dash**
-![Enable](Screenshot/hide-workspaces-and-dash.jpg)
+![Enable](screenshot/hide-workspaces-and-dash.jpg)
 
 
 **Launch And Expose**
-![Launch And Expose](Screenshot/launch-and-expose.jpg)
+![Enable](screenshot/launch-and-expose.jpg)
