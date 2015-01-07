@@ -3,6 +3,7 @@ Minimalism Gnome Shell Project
 
 Minimalism Gnome Shell Extensions
 
+-----------------
 **Installation**
 -----------------
 
@@ -17,8 +18,9 @@ Hide the dash from the activities overview.
 [Hide Workspace Thumbnails](https://extensions.gnome.org/extension/808/hide-workspace-thumbnails/)
 Hide workspace thumbnails from the overview. But don't worry they are still present and one can switch between them like usual with e.g. shortcuts.
 
+---------------
 **Screenshots**
-----------------------  
+---------------
 
 **Hide Dash X**
 ![Enable](screenshot/hide-dash.png)
