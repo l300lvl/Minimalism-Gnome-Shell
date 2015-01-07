@@ -10,21 +10,12 @@ const panel = imports.ui.panel;
 const ExtensionUtils = imports.misc.extensionUtils;
 const Me = ExtensionUtils.getCurrentExtension();
 
-
-//icons in [extension folder]/img you can replace with same name
-//I will write option later.
-
-
+// Icons in [extension folder]/img
 const expose_iconPath = Me.path + '/img/windowslist.svg';
 const launchpad_iconPath = Me.path + '/img/logo.svg';
 let launchpad_button, expose_button, rb_index;
 
-
 //I try to write code with New Lang({}) style but wont work.
-//I will find solution later.
-//I need more infomation.
-//I must reserach more.
-
 function init() {
     init_launchpad();
     init_expose();
@@ -40,6 +31,7 @@ function disable() {
     disable_expose();
 
 }
+
 function init_expose() {
 
     expose_button = new St.Bin({ style_class: 'panel-button',
@@ -66,13 +58,16 @@ function init_expose() {
       }
     }); 
 }
+
 function enable_expose() {
     rb_index = Main.panel._rightBox.get_children();
     Main.panel._rightBox.insert_child_at_index(expose_button, rb_index.length +1);
 }
+
 function disable_expose() {
     Main.panel._rightBox.remove_child(expose_button);
 }
+
 function init_launchpad() {
       launchpad_button = new St.Bin({ style_class: 'panel-button',
                           reactive: true,
@@ -99,11 +94,13 @@ function init_launchpad() {
       }
     }); 
 }
+
 function enable_launchpad() {
     Main.panel._leftBox.insert_child_at_index(launchpad_button, 0);
     activitiesButton = Main.panel.statusArea['activities'];
     activitiesButton.container.hide();
 }
+
 function disable_launchpad() {
     Main.panel._leftBox.remove_child(launchpad_button);
     activitiesButton.container.show();
