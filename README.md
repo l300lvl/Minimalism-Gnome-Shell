@@ -1,48 +1,32 @@
 Minimalism Gnome Shell Project
 ==============================
 
-Minimalism Gnome Shell Extension &amp; More    
-Gnome Shell extension for Make Gnome shell to minimalism style    
+Minimalism Gnome Shell Extensions
 
+**Installation**
 -----------------
 
-This repository is Stable release
+**[Gnome.org's Extensions](https://extensions.gnome.org/)**
 
-**installation**
------------------
+[Launch And Expose](https://extensions.gnome.org/extension/811/launch-and-expose/)
+Show all running windows in an overview when clicking in the upper right corner, show all app in an overview when clicking in the upper left corner.
 
-**Arch Linux**   
+[Hide Dash X](https://extensions.gnome.org/extension/805/hide-dash/)
+Hide the dash from the activities overview.
 
-
-yaourt -S [gnome-shell-extension-minimalism-bundle-git](https://aur.archlinux.org/packages/gnome-shell-extension-minimalism-bundle-git/)
-
--------------------
-
-
-**Other Distro by [Gnome.org's Extensions](https://extensions.gnome.org/)**
-
-[Launch And Expose](https://extensions.gnome.org/extension/811/launch-and-expose/)       
-Show All Running Windows on Overview With Right Button, Show All App on Overview with Left Button.     
-
-[Hide Dash X](https://extensions.gnome.org/extension/805/hide-dash/)    
-Hide the dash from the activities overview.      
-
-[Hide Workspace Thumbnails](https://extensions.gnome.org/extension/808/hide-workspace-thumbnails/)     
-Hide workspace thumbnails on overiew.You can switch workspace with mouse wheel on overview.      
+[Hide Workspace Thumbnails](https://extensions.gnome.org/extension/808/hide-workspace-thumbnails/)
+Hide workspace thumbnails from the overview. But don't worry they are still present and one can switch between them like usual with e.g. shortcuts.
 
 **Screenshort**
 ----------------------  
 
 **Hide Dash X**
-![Disable](https://raw.githubusercontent.com/xenatt/gnome-shell-extension-hide-dash/master/xenlism_cover2.jpg)
-![Enable](https://raw.githubusercontent.com/xenatt/gnome-shell-extension-hide-dash/master/xenlism_cover5.png)
+![Enable](Screenshot/hide-dash.png)
 
 
- 
-**Hide WorkSpace Thumbnails**
-![Enable](Screenshot/xenlism_hidewsp_cover.jpg)
+**Hide WorkSpace Thumbnails And Dash**
+![Enable](Screenshot/hide-workspaces-and-dash.jpg)
 
-                           
+
 **Launch And Expose**
-![Launch And Expose](Screenshot/Launch-And-Expose.jpg)
-  
+![Launch And Expose](Screenshot/launch-and-expose.jpg)
