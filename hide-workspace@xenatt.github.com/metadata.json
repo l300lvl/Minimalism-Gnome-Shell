@@ -1,0 +1,12 @@
+{
+	"description": "Hide workspace thumbnails from the overview. But don't worry they are still present and one can switch between them like usual with e.g. shortcuts..",
+	"name": "Hide Workspace Thumbnails",
+	"shell-version": [
+		"3.10",
+		"3.12",
+		"3.14"
+	],
+	"url": "https://github.com/Edenhofer/Minimalism-Gnome-Shell",
+	"uuid": "hide-workspace@xenatt.github.com",
+	"version": 1
+}
