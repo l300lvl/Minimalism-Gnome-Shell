@@ -3,13 +3,13 @@
   <schema path="/org/gnome/shell/extensions/launchandexpose/" id="org.gnome.shell.extensions.launchandexpose">
     <key name="show-launchpad-icon" type="b">
       <default>true</default>
-      <summary>Show LauncPad Icon</summary>
+      <summary>Show LaunchPad Icon</summary>
       <description>
         Show Launcpad icons on top left
       </description>
     </key>
     <key name="label-launchpad-text" type="s">
-      <default>"LauncPad"</default>
+      <default>"LaunchPad"</default>
       <summary>LaunchPad label</summary>
       <description>
         Set Launcpad Text Label on top left
